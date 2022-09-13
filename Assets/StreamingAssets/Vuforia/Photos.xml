@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pamphlet" size="0.215900 0.344823" />
+    <ImageTarget name="Yorktown_Surrender" size="0.279400 0.184171" />
+    <ImageTarget name="HenryVIII" size="0.215900 0.312615" />
+  </Tracking>
+</QCARConfig>

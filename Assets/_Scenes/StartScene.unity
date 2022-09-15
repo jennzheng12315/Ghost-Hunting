@@ -322,12 +322,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Haynes, Suyin. \u201CAnne Boleyn Has Had a Bad Reputation for Nearly 500
-    Years. Here's How One Historian Wants to Change That.\u201D Time, 2 Dec. 2019,
-    https://time.com/5739697/anne-boleyn-biography-women-history/. \r\n\n\u201CJane
-    Seymour (c.1509-1537).\u201D Luminarium: Encyclopedia Project, http://www.luminarium.org/encyclopedia/janeseymour.htm.
-    \r\n\nMantel, Hilary. \u201CAnne Boleyn: witch, bitch, temptress, feminist.\u201D
-    The Guardian, 11 May 2012, https://www.theguardian.com/books/2012/may/11/hilary-mantel-on-anne-boleyn.
+  m_text: "Hans Holbein the Younger: Portrait of Henry VIII of England. Encyclopedia
+    Britannica, https://www.britannica.com/biography/Henry-VIII-king-of-England#/media/1/261947/223859\r\n\nHaynes,
+    Suyin. \u201CAnne Boleyn Has Had a Bad Reputation for Nearly 500 Years. Here's
+    How One Historian Wants to Change That.\u201D Time, 2 Dec. 2019, https://time.com/5739697/anne-boleyn-biography-women-history/.
+    \r\n\n\u201CJane Seymour (c.1509-1537).\u201D Luminarium: Encyclopedia Project,
+    http://www.luminarium.org/encyclopedia/janeseymour.htm. \r\n\nMantel, Hilary.
+    \u201CAnne Boleyn: witch, bitch, temptress, feminist.\u201D The Guardian, 11
+    May 2012, https://www.theguardian.com/books/2012/may/11/hilary-mantel-on-anne-boleyn.
     \r\n\nMorgan, Thad. \u201CHow an Enslaved Man-Turned-Spy Helped Secure Victory
     at the Battle of Yorktown.\u201D History, 9 July 2020, https://www.history.com/news/battle-of-yorktown-slave-spy-james-armistead.
     \r\n\nPlain Truths. 1776. American Antiquarian, https://www.americanantiquarian.org/Exhibitions/Reading/3/3point13.htm.
@@ -375,8 +377,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 29
+  m_fontSizeBase: 29
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

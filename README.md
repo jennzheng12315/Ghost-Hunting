@@ -12,7 +12,7 @@ Did you know that ghosts are real? That’s right. Everywhere you go, they float
 3. Click the Open button and select the newly created Ghost Hunting folder from your files
 4. Open ARScene in the Assets -> Scenes folder
 5. Press the play button on the top to run game
-6. For the image targets, print them out on letter size paper
+6. You can find the image targets in the `Image Targets` folder. Print them out on letter size paper
 
 Note: Ghost Hunting uses Unity version 2020.3.31f1
 

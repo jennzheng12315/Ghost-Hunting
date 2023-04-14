@@ -1,7 +1,9 @@
 # 👻🔍 Ghost Hunting
 Ghost Hunting is an mixed reality (MR) project made in Unity that features the untold stories of people who have been underrepresented in history.  
 
-**Video Walkthrough: https://youtu.be/JcKMzEeMHFI**   
+_Winner of the "je ne sais quoi" Award at 2023 Digital Media and Design Showcase_  
+
+Video Walkthrough: https://youtu.be/JcKMzEeMHFI  
 
 <img src="https://user-images.githubusercontent.com/71287285/193474112-ffc3a855-aade-4caf-ac22-4db94f928a3c.png" alt="title screen" width="600"/>  
 
